@@ -1,1 +1,2 @@
 # probELSO SOR
+# MASODIK SOR
